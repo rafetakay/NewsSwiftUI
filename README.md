@@ -20,6 +20,7 @@ sh
 Copy
 Edit
 git clone https://github.com/rafetakay/NewsSwiftUI.git
+
 Open the project in Xcode.
 
 Add your API key in the config file.
