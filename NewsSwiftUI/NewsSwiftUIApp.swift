@@ -11,7 +11,8 @@ import SwiftUI
 struct NewsSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
+                .environment(\.apiKey, "YOUR_API_KEY") 
         }
     }
 }
